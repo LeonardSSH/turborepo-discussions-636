@@ -1,0 +1,7 @@
+{
+  "name": "landing",
+  "scripts": {
+    "lint": "echo LINT SCRIPT!",
+    "build": "echo BUILD SCRIPT!"
+  }
+}

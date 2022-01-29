@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "dev:preview": "turbo run dev:preview",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "turbo": "^1.1.1"
+  },
+  "packageManager": "pnpm@6.26.1"
+}

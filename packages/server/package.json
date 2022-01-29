@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "scripts": {
+    "lint": "echo LINT SCRIPT!",
+    "build": "echo BUILD SCRIPT!",
+    "dev": "echo DEV SCRIPT!",
+    "dev:preview": "echo DEV:PREVIEW SCRIPT!"
+  }
+}
